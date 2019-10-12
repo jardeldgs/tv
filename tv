@@ -1266,6 +1266,30 @@ http://psrv.io:80/fgy0mcZW2k/trixotv/19182
 http://psrv.io:80/fgy0mcZW2k/trixotv/19181
 #EXTINF:-1 tvg-id=** tvg-name=*[24H] Yu-Gi-Oh!* tvg-logo=** group-title=*Canais | 24 Horas*,[24H] Yu-Gi-Oh!
 http://psrv.io:80/fgy0mcZW2k/trixotv/19180
+#EXTINF:-1 tvg-id=*PlayboyTV HD* tvg-name=*[XXX] PlayBoy HD* tvg-logo=*https://static.psrv.io/logos/canais/playboy.png* group-title=*Canais | Adultos*,[XXX] PlayBoy HD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18487
+#EXTINF:-1 tvg-id=*PlayboyTV HD* tvg-name=*[XXX] PlayBoy HD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/playboy.png* group-title=*Canais | Adultos*,[XXX] PlayBoy HD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22342
+#EXTINF:-1 tvg-id=*PlayboyTV* tvg-name=*[XXX] PlayBoy SD* tvg-logo=*https://static.psrv.io/logos/canais/playboy.png* group-title=*Canais | Adultos*,[XXX] PlayBoy SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18488
+#EXTINF:-1 tvg-id=*PlayboyTV* tvg-name=*[XXX] PlayBoy SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/playboy.png* group-title=*Canais | Adultos*,[XXX] PlayBoy SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22287
+#EXTINF:-1 tvg-id=*Sextreme* tvg-name=*[XXX] Sextreme SD* tvg-logo=*https://static.psrv.io/logos/canais/sextreme.png* group-title=*Canais | Adultos*,[XXX] Sextreme SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18486
+#EXTINF:-1 tvg-id=*Sextreme* tvg-name=*[XXX] Sextreme SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sextreme.png* group-title=*Canais | Adultos*,[XXX] Sextreme SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22215
+#EXTINF:-1 tvg-id=*SexyHot* tvg-name=*[XXX] SexyHot SD* tvg-logo=*https://static.psrv.io/logos/canais/sexyhot.png* group-title=*Canais | Adultos*,[XXX] SexyHot SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18485
+#EXTINF:-1 tvg-id=*SexyHot* tvg-name=*[XXX] SexyHot SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/sexyhot.png* group-title=*Canais | Adultos*,[XXX] SexyHot SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22275
+#EXTINF:-1 tvg-id=*Venus* tvg-name=*[XXX] Venus SD* tvg-logo=*https://static.psrv.io/logos/canais/venus.png* group-title=*Canais | Adultos*,[XXX] Venus SD
+http://psrv.io:80/fgy0mcZW2k/trixotv/18484
+#EXTINF:-1 tvg-id=*Venus HD* tvg-name=*[XXX] Venus SD [Alter]* tvg-logo=*http://static.psrv.io/logos/canais/venus.png* group-title=*Canais | Adultos*,[XXX] Venus SD [Alter]
+http://psrv.io:80/fgy0mcZW2k/trixotv/22447
+
+
+#EXTINF:-1 tvg-id=** tvg-name="(())LISTA BLACK 02(())" tvg-logo="https://www.iptvblack.tv/file/2019/05/ogimage-2.jpg" group-title="→ → → (())LISTA BLACK 02(()) → → →",(())LISTA BLACK 02(()) ↓↓↓
+https://www.iptvblack.tv/file/2019/05/ogimage-2.jpg
 
 #EXTINF:-1 tvg-id="**"tvg-name="**"tvg-logo="**"group-title="*Canais 02", A&E
 http://psrv.io:80/ddXSV6V3Ks/coreurl.me/18739
