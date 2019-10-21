@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Filmes", Fratura
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/FRTRA.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", THE BAYLOCK RESIDENCE
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THEBYLCKRSDNCLEG.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Toy Story 4
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/TYSTRY4.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Influência
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/INFLNCIA.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Pets: A Vida Secreta dos Bichos 2
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/PETSAVSCDBS2.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Histórias Assustadoras para Contar no Escuro
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/HSTRSASUSTRSPRCNTRNESCRLEG.mp4?attachment=true
+
 #EXTINF:-1 group-title="Filmes", Campo do Medo
 https://bit.ly/33FY9Ww
 
