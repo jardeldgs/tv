@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Filmes", A Maldição dos Esquecidos
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AMLDCAODESQCDS.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Contato Visceral
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CNTRVSCRL.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Dezessete
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/DEZSTE.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Diga Quem Sou
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/DGAQMSOUEU.mp4?attachment=true
+
+#EXTINF:-1 group-title="Filmes", Eli
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ELI.mp4?attachment=true
+
 #EXTINF:-1 group-title="Filmes", Fratura
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/FRTRA.mp4?attachment=true
 
